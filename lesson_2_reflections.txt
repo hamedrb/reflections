@@ -1,0 +1,10 @@
+
+Q1: What happens when you initialize a repository? Why do you need to do it?
+
+A1: I guess Git starts to recognize the files in the repository and prepare itself to track the changes in the files.
+
+===========================================================================================
+
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A2: I think in staging area we cannot edit files but it is just a snapshot of added files. I think what it offers is to take a snapshot that will be committed later.
