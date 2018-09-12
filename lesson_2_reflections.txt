@@ -8,3 +8,40 @@ A1: I guess Git starts to recognize the files in the repository and prepare itse
 Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A2: I think in staging area we cannot edit files but it is just a snapshot of added files. I think what it offers is to take a snapshot that will be committed later.
+
+===========================================================================================
+
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+
+A3: I think by adding only those files that are related to the change
+
+===========================================================================================
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A4: It would be helpful when we want to change the files but we are not sure the changes work properly.
+
+===========================================================================================
+
+Q5: How do the diagrams help you visualize the branch structure?
+
+A5: By showing the connection path between commits
+
+===========================================================================================
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A6: A series of commits consisted of commits of merged branches
+    To know that there used to be a branch
+
+===========================================================================================
+
+Q7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A7: prons: it does not make mistake in taking into account all versions of a code
+	   it shows the conflicting parts of codes automatically
+    cons: nothing
+
+===========================================================================================
+
+
