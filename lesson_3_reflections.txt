@@ -1,0 +1,8 @@
+Q1: When would you want to use a remote repository rather than keeping all your work local?
+
+A1: -- When there are several people who work on the project
+    -- When I want to be sure that I can access to my project even if I lose it on my local computer by mistake.
+    -- When I want to access my projects from several computers in different places
+
+================================================================================================================
+
