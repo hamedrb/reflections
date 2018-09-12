@@ -20,4 +20,8 @@ A3: -- fork is used to make a copy of a repository from someone's else github to
 
 ===================================================================================================
 
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
 
+A4: Having the last knwon state of the remote makes us sure that we have the last updates of the project and if we edit and push it, it is less likely to raise an conflict.
+
+===================================================================================================
