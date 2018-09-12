@@ -12,4 +12,12 @@ A2: Because I can pull changes when I feel it is a good time for pulling.
 
 ===================================================================================================
 
+Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A3: -- fork is used to make a copy of a repository from someone's else github to our github
+    -- clone is used to make a copy of a repository from github to a local computer
+    -- branch is used to make a branch in a project
+
+===================================================================================================
+
 
