@@ -25,3 +25,18 @@ Q4: What is the benefit of having a copy of the last known state of the remote s
 A4: Having the last knwon state of the remote makes us sure that we have the last updates of the project and if we edit and push it, it is less likely to raise an conflict.
 
 ===================================================================================================
+
+Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A5: By exchanging codes.
+    It would be easier without github: 
+	-- we don't need to know anything about git commands and workflow
+    It would be harder without github: 
+	-- comparing codes and finding changes and conflicts
+	-- sharing codes among several people
+	-- collaboration on a project
+
+===================================================================================================
+
+
+
